@@ -152,3 +152,44 @@ ul {
     font-weight: 700;
     align-self: flex-end;
 }
+
+/* Beginning of call to action section styling */
+
+.call-to-action {
+    display: flex;
+    padding: 30px 100px;
+}
+
+.call-to-action-container {
+    flex: 1;
+    background-color: #3882f6;
+    border-radius: 12px;
+    display: flex;
+    padding: 30px 75px;
+    gap: 50px;
+    justify-content: space-evenly
+}
+
+.action-left {
+    flex: ;
+}
+
+.action-title {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.action-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.action-right {
+    flex: ;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: #f9faf8 5px solid;
+    border-radius: 12px;
+
+}
